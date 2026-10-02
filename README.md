@@ -1,4 +1,4 @@
-**arValue AI — Intelligent Car Price Prediction System**
+**CarValue AI — Intelligent Car Price Prediction System**
 
 **Overview**
 
